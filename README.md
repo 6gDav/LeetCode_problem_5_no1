@@ -37,3 +37,5 @@ Hardware: *Apple Mac Mini M4*
 * **Execution Time**: *2.292µs*
 * **Memory Delta**: *0 bytes*
 * **Current Memory**: *1523712 bytes*
+
+## ❗️LeetCode dont't accept this solution ❗️
